@@ -24,7 +24,8 @@ Using the URL link like an app on your phone which looks like this:
 
 <img src="https://github.com/user-attachments/assets/ca4a1b0a-4f76-44cc-b76e-30785d932370" alt="Description" width="300">
 
-<img src="https://github.com/user-attachments/assets/25bb7ab1-5871-4fb0-987a-c53528663ad6" alt="Description" width="300">
+<img src="https://github.com/user-attachments/assets/f7fd063d-4be5-4a6f-b395-a94662ef0c69" alt="Description" width="300">
+
 
 
 ### Task Management
