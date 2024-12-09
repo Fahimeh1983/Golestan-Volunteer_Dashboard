@@ -29,9 +29,9 @@ Using the URL link like an app on your phone which looks like this:
 
 
 ### Task Management
-![Task Management](screenshots/task-management.png)
+<img src="https://github.com/user-attachments/assets/5ac50943-e3e0-4f79-a750-d14fa379290d" alt="Description" width="300">
 
-## Limitations![IMG_9502]()
+<img src="https://github.com/user-attachments/assets/32fc044e-ce9e-4a86-bf58-3e9b2531510c" alt="Description" width="300">
 
 This repository does not include the backend implementation or live demo URL for security reasons.
 
