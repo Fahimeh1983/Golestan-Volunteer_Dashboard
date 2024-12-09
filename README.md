@@ -24,14 +24,15 @@ Using the URL link like an app on your phone which looks like this:
 
 <img src="https://github.com/user-attachments/assets/ca4a1b0a-4f76-44cc-b76e-30785d932370" alt="Description" width="300">
 
-<img src="https://github.com/user-attachments/assets/f7fd063d-4be5-4a6f-b395-a94662ef0c69" alt="Description" width="300">
+<img src="https://github.com/user-attachments/assets/c6b32a30-8e68-470b-8b5d-45ec06d78b43" alt="Description" width="300">
 
 
 
 ### Task Management
 ![Task Management](screenshots/task-management.png)
 
-## Limitations
+## Limitations![IMG_9502]()
+
 This repository does not include the backend implementation or live demo URL for security reasons.
 
 ## How It Works
