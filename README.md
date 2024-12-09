@@ -25,8 +25,6 @@ Using the URL link like an app on your phone which looks like this:
 ![Phone view](https://github.com/user-attachments/assets/ca4a1b0a-4f76-44cc-b76e-30785d932370)
 
 
-![Dashboard View](https://github.com/user-attachments/assets/add9cb92-be34-4311-b637-20f00bad8393)
-
 
 ![Select Action](https://github.com/user-attachments/assets/25bb7ab1-5871-4fb0-987a-c53528663ad6)
 
