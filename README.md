@@ -15,9 +15,6 @@ It integrates with Google Sheets to ensure real-time updates and efficient colla
 - **Backend**: Google Apps Script (secure and not included in this repository)
 - **Data Storage**: Google Sheets
 
-## Note
-The live demo is for showcasing purposes and does not allow unauthorized changes.
-
 ## Screenshots
 ### Dashboard View
 Using the URL link like an app on your phone which looks like this:
