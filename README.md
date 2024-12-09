@@ -20,7 +20,9 @@ The live demo is for showcasing purposes and does not allow unauthorized changes
 
 ## Screenshots
 ### Dashboard View
-![Dashboard View](screenshots/dashboard-view.png)
+
+![Dashboard View](https://github.com/user-attachments/assets/add9cb92-be34-4311-b637-20f00bad8393)
+![Select Action](https://github.com/user-attachments/assets/25bb7ab1-5871-4fb0-987a-c53528663ad6)
 
 ### Task Management
 ![Task Management](screenshots/task-management.png)
