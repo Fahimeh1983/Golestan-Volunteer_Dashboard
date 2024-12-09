@@ -33,6 +33,8 @@ Using the URL link like an app on your phone which looks like this:
 
 <img src="https://github.com/user-attachments/assets/32fc044e-ce9e-4a86-bf58-3e9b2531510c" alt="Description" width="300">
 
+<img src="https://github.com/user-attachments/assets/884f0b9b-0aa4-4aeb-98fd-8522c448cc70" alt="Description" width="300">
+
 This repository does not include the backend implementation or live demo URL for security reasons.
 
 ## How It Works
